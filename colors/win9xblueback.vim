@@ -1,1 +1,0 @@
-/home/randy/.vim/bundle/vim-colorschemes/colors/win9xblueback.vim

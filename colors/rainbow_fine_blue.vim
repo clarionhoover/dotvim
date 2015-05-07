@@ -1,1 +1,0 @@
-/home/randy/.vim/bundle/vim-colorschemes/colors/rainbow_fine_blue.vim

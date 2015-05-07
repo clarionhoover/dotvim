@@ -1,1 +1,0 @@
-/home/randy/.vim/bundle/vim-colorschemes/colors/0x7A69_dark.vim
