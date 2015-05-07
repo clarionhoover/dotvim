@@ -1,0 +1,1 @@
+/home/randy/.vim/bundle/vim-colorschemes/colors/softbluev2.vim

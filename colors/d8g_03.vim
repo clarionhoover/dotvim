@@ -1,0 +1,1 @@
+/home/randy/.vim/bundle/vim-colorschemes/colors/d8g_03.vim

@@ -1,0 +1,1 @@
+/home/randy/.vim/bundle/vim-colorschemes/colors/asu1dark.vim

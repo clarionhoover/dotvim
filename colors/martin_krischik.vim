@@ -1,0 +1,1 @@
+/home/randy/.vim/bundle/vim-colorschemes/colors/martin_krischik.vim
