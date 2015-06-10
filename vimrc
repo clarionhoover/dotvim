@@ -19,6 +19,7 @@ Plugin 'tomtom/tlib_vim'
 Plugin 'garbas/vim-snipmate'
 Plugin 'vadv/vim-chef'
 Plugin 'flazz/vim-colorschemes'
+Plugin 'moll/vim-node'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
